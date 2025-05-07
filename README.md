@@ -1,0 +1,2 @@
+This project is a set of simple html pages linked together like a website.
+By the end of it, I shall have demonstrated the ability to create a boilerplate, embed links and images, and write good git commit messages along the way.
